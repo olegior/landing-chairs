@@ -369,7 +369,6 @@ h4 {
 
 .footer__links__block {
     width: 255px;
-    height: 255px;
 }
 
 .footer__links__list {
@@ -380,9 +379,9 @@ h4 {
 }
 
 .footer__links__list li {
-    font-size: 12px;
+    font-size: 16px;
     color: #828282;
-    line-height: 2.15;
+    margin-bottom: 10px;
 }
 
 .footer__information {
