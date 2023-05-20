@@ -123,7 +123,6 @@ footer,
 }
 
 .header__navigation {
-    /* max-height: 150px; */
     height: 120px;
     justify-content: space-between;
     flex-direction: row;
@@ -603,10 +602,7 @@ h4 {
     .footer__links__block {
         height: 100%;
         width: 100%;
-        /* margin: 0 20px; */
-        /* margin-left: 30px; */
         justify-content: center;
-        /* padding-left: 10px; */
     }
 
     .footer__links__list {
